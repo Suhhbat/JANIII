@@ -1337,7 +1337,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m JANI Toll Free BUT You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m JANI TOOL PAID You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : JANI FREE HA BHAIYO ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
